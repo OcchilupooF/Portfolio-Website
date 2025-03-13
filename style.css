@@ -857,7 +857,9 @@ width: 100%;
 }
 
 .btn-scarica-cv{
-width: 90%;
+width: 100%;
+  align-items:center; 
+  margin:auto;
 }
 
 /* SERVIZI */
@@ -1031,6 +1033,8 @@ margin: 16px;
 
   .contact-button {
     width: 100%;
+  align-items:center; 
+  margin:auto;
   }
 
 
@@ -1368,7 +1372,9 @@ margin: 16px;
 }
 
 .btn-scarica-cv{
-  width: 90%;
+  width: 100%;
+  align-items:center; 
+  margin:auto;
 }
 
 
