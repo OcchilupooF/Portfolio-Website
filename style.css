@@ -263,9 +263,9 @@ body {
 /* SU DI ME */
 
 .profile a{
-  width: 80%;
+  width: 100%; 
 margin: auto;
-Padding: auto;
+  display:flex; 
   justify-content: center;
   align-items: center;
 }
