@@ -262,6 +262,11 @@ body {
 
 /* SU DI ME */
 
+.profile a{
+  width: 100%;
+margin: 0;
+Padding: 0;
+}
 
 .profile {
   flex-direction: row;
