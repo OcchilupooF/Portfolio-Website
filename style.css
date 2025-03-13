@@ -1000,7 +1000,8 @@ margin: 16px;
 
 
 .navbar{
-  margin-top: 0;
+  margin: 0;
+  width:100%;
 }
 
 
@@ -1044,6 +1045,8 @@ margin: 16px;
 .hero{
   height: auto;
   margin-bottom: -40px;
+  padding: 0 24px 24px 24px;
+  margin-top: 0;
 }
 .hero__content{
   flex-direction:row;
@@ -1257,7 +1260,10 @@ margin: 16px;
 }
 
 
-
+.navbar{
+  margin:0;
+  width:100%;
+}
 
 
   .nav-links {
@@ -1267,7 +1273,7 @@ margin: 16px;
     top: 64px;
     left: 0;
     background-color: #CFD5CD;
-    padding: 12px;
+    padding: 24px 12px;
     border-radius: 4px;
     width: 100%;
   }
@@ -1291,6 +1297,8 @@ margin: 16px;
 
 .hero{
   height: auto;
+  padding: 0 24px 24px 24px;
+  margin-top:0;
 }
 .hero__content{
   flex-direction:row;
